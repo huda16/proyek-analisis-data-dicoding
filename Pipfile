@@ -9,8 +9,8 @@ matplotlib = "*"
 seaborn = "*"
 streamlit = "*"
 numpy = "*"
-spicy = "*"
 babel = "*"
+scipy = "*"
 
 [dev-packages]
 
