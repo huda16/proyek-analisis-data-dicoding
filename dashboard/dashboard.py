@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 sns.set_theme(style="dark")
 
 # Load cleaned data
-final_df = pd.read_csv("./dataset/final_dataframe.csv", parse_dates=["order_purchase_timestamp"])
+final_df = pd.read_csv("./final_dataframe.csv", parse_dates=["order_purchase_timestamp"])
 
 
 # Helper function to create various dataframes
